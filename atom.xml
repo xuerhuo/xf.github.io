@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-07-01T01:12:15.356Z</updated>
+  <updated>2021-07-06T14:05:42.340Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,18 +17,41 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
+    <title>生产力工具-代码生成器XFCodeGen-v0.02</title>
+    <link href="http://example.com/2021/07/06/%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%B7%A5%E5%85%B7%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8v0-02/"/>
+    <id>http://example.com/2021/07/06/%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%B7%A5%E5%85%B7%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8v0-02/</id>
+    <published>2021-07-06T13:44:22.000Z</published>
+    <updated>2021-07-06T14:05:42.340Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h3><p>在已有的代码生成工具中,一直都没有找到一个合适的代码生成工具,既可以生成java又可以生成php等其他语言的工具.</p><p>但是市面已存的代码生成工具中工具中,要么是java写的太重了,要不对模板修改扩展不友好,因此在业余的时候就用python +qt 撸了一个代码生成器轮子.这应该算是我写的第一个桌面软件吧</p><h3 id="XFCodeGen-简介"><a href="#XFCodeGen-简介" class="headerlink" title="XFCodeGen 简介"></a>XFCodeGen 简介</h3><p>生产力工具:代码生成器,支持 spring cloud , thinkphp 等框架代码生成(当然模板你得自己写) , 目前数据源支持mysql与postgresql</p><h3 id="模板参考"><a href="#模板参考" class="headerlink" title="模板参考"></a>模板参考</h3><pre><code>- php模板参考见目录: /template/cms- spring ruoyi模板参考见目录: /template/ruoyi</code></pre><h3 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h3><p> <a href="https://github.com/xuerhuo/XFcodegen">https://github.com/xuerhuo/XFcodegen</a></p><h3 id="软件预览"><a href="#软件预览" class="headerlink" title="软件预览"></a>软件预览</h3><p><img src="/data/2021/07/20210623083558.png" alt="pic"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;内容&quot;&gt;&lt;a href=&quot;#内容&quot; class=&quot;headerlink&quot; title=&quot;内容&quot;&gt;&lt;/a&gt;内容&lt;/h3&gt;&lt;p&gt;在已有的代码生成工具中,一直都没有找到一个合适的代码生成工具,既可以生成java又可以生成php等其他语言的工具.&lt;/p&gt;
+&lt;p&gt;但是市面已</summary>
+      
+    
+    
+    
+    
+    <category term="生产工具,软件,python,qt" scheme="http://example.com/tags/%E7%94%9F%E4%BA%A7%E5%B7%A5%E5%85%B7-%E8%BD%AF%E4%BB%B6-python-qt/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客迁移后的第一篇文章 Hello World</title>
     <link href="http://example.com/2021/07/01/hello-world/"/>
     <id>http://example.com/2021/07/01/hello-world/</id>
-    <published>2021-07-01T01:12:15.355Z</published>
-    <updated>2021-07-01T01:12:15.356Z</updated>
+    <published>2021-07-01T02:49:34.000Z</published>
+    <updated>2021-07-01T02:49:45.392Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h5 id="博客历程"><a href="#博客历程" class="headerlink" title="博客历程"></a>博客历程</h5><p>博客先后经历,  2012年独立域名WordPress, 2013年lofter, 2016年使用php写的博客程序,2019年消亡,数据丢失,2020年重建,2021年 免费云主机景安不让用了,这次转到github pages 托管,选个简单的主题继续开始</p><ul><li>希望这次可以好好沉淀,专心写文,并且机缘巧合,选择了这么一个神奇的日子建立博客</li></ul>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;h5 id=&quot;博客历程&quot;&gt;&lt;a href=&quot;#博客历程&quot; class=&quot;headerlink&quot; title=&quot;博客历程&quot;&gt;&lt;/a&gt;博客历程&lt;/h5&gt;&lt;p&gt;博客先后经历,  2012年独立域名WordPress, 2013年lofter, 2016年使用php写的博客程序,201</summary>
       
     
     
