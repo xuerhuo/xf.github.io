@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-07-06T14:05:42.340Z</updated>
+  <updated>2021-07-07T00:55:24.937Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://example.com/2021/07/06/%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%B7%A5%E5%85%B7%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8v0-02/"/>
     <id>http://example.com/2021/07/06/%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%B7%A5%E5%85%B7%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8v0-02/</id>
     <published>2021-07-06T13:44:22.000Z</published>
-    <updated>2021-07-06T14:05:42.340Z</updated>
+    <updated>2021-07-07T00:55:24.937Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h3><p>在已有的代码生成工具中,一直都没有找到一个合适的代码生成工具,既可以生成java又可以生成php等其他语言的工具.</p><p>但是市面已存的代码生成工具中工具中,要么是java写的太重了,要不对模板修改扩展不友好,因此在业余的时候就用python +qt 撸了一个代码生成器轮子.这应该算是我写的第一个桌面软件吧</p><h3 id="XFCodeGen-简介"><a href="#XFCodeGen-简介" class="headerlink" title="XFCodeGen 简介"></a>XFCodeGen 简介</h3><p>生产力工具:代码生成器,支持 spring cloud , thinkphp 等框架代码生成(当然模板你得自己写) , 目前数据源支持mysql与postgresql</p><h3 id="模板参考"><a href="#模板参考" class="headerlink" title="模板参考"></a>模板参考</h3><pre><code>- php模板参考见目录: /template/cms- spring ruoyi模板参考见目录: /template/ruoyi</code></pre><h3 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h3><p> <a href="https://github.com/xuerhuo/XFcodegen">https://github.com/xuerhuo/XFcodegen</a></p><h3 id="软件预览"><a href="#软件预览" class="headerlink" title="软件预览"></a>软件预览</h3><p><img src="/data/2021/07/20210623083558.png" alt="pic"></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h3><p>在已有的代码生成工具中,一直都没有找到一个合适的代码生成工具,既可以生成java又可以生成php等其他语言的工具.</p><p>但是市面已存的代码生成工具中工具中,要么是java写的太重了,要不对模板修改扩展不友好,因此在业余的时候就用python +qt 撸了一个代码生成器轮子.这应该算是我写的第一个桌面软件吧</p><h3 id="XFCodeGen-简介"><a href="#XFCodeGen-简介" class="headerlink" title="XFCodeGen 简介"></a>XFCodeGen 简介</h3><p>生产力工具:代码生成器,支持 spring cloud , thinkphp 等框架代码生成(当然模板你得自己写) , 目前数据源支持mysql与postgresql</p><h3 id="模板参考"><a href="#模板参考" class="headerlink" title="模板参考"></a>模板参考</h3><p>php模板参考见目录: /template/cms</p><p>spring ruoyi模板参考见目录: /template/ruoyi</p><h3 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h3><p> <a href="https://github.com/xuerhuo/XFcodegen">https://github.com/xuerhuo/XFcodegen</a></p><h3 id="软件预览"><a href="#软件预览" class="headerlink" title="软件预览"></a>软件预览</h3><p><img src="/data/2021/07/20210623083558.png" alt="pic"></p>]]></content>
     
     
       
@@ -35,7 +35,13 @@
     
     
     
-    <category term="生产工具,软件,python,qt" scheme="http://example.com/tags/%E7%94%9F%E4%BA%A7%E5%B7%A5%E5%85%B7-%E8%BD%AF%E4%BB%B6-python-qt/"/>
+    <category term="生产工具" scheme="http://example.com/tags/%E7%94%9F%E4%BA%A7%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="软件" scheme="http://example.com/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="python" scheme="http://example.com/tags/python/"/>
+    
+    <category term="qt" scheme="http://example.com/tags/qt/"/>
     
   </entry>
   
